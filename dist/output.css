@@ -927,6 +927,11 @@ h6 {
   background-color: rgb(51 65 85 / var(--tw-bg-opacity));
 }
 
+.bg-\[\#e00098\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(224 0 152 / var(--tw-bg-opacity));
+}
+
 .fill-current {
   fill: currentColor;
 }
